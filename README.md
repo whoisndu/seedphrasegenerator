@@ -37,3 +37,4 @@ It is crucial to handle the generated seed phrases with care, as they grant acce
 Feel free to modify the code to suit your specific requirements or integrate it into your own projects.
 
 Please refer to the script comments for more detailed information on the implementation.
+This is purely for educational purposes, and I hope it helps. Cheers. 
