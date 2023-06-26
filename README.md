@@ -5,6 +5,7 @@ This Python script generates random seed phrases by selecting words from a provi
 **Prerequisites**
 
 Python 3.x
+
 List of Words - https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt#L580
 
 **Usage**
